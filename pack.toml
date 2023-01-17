@@ -1,0 +1,16 @@
+name = "Modpack"
+author = "Shadowevil015"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "10e71349fccb76c70667cd329834d5071474d1ef1a13d38051bcc4e31d0d2bc6"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.19.3,1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.3", "1.19.2"]

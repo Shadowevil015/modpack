@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.19.3-6.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/wpPA6EBu/collective-1.19.3-6.30.jar"
+hash-format = "sha1"
+hash = "dc9a1bae2489e71213be9b34dd3082ed9fa1c14e"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "wpPA6EBu"

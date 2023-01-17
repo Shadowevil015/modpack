@@ -1,0 +1,13 @@
+name = "Snow Pig [Fabric]"
+filename = "snow-pig-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HaIJSYr6/versions/L0G4vBJV/snow-pig-2.0.0.jar"
+hash-format = "sha1"
+hash = "e58a715c45136e9760f6b9f384462075ba928139"
+
+[update]
+[update.modrinth]
+mod-id = "HaIJSYr6"
+version = "L0G4vBJV"
