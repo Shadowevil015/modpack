@@ -43,5 +43,5 @@ fs.readdir(modsFolder, function(err, files) {
 		listing += "\n";
 	});
 
-	fs.writeFileSync("list.md", listing);
+	fs.writeFileSync("README.md", listing);
 });
