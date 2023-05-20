@@ -1,0 +1,13 @@
+name = "Energy Meter"
+filename = "energymeter-1.18.2-3.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ce5cd873d25678279c27218ca75c40d05f38a30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4032082
+project-id = 532169

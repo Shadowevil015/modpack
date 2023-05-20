@@ -1,0 +1,13 @@
+name = "Magical Forest"
+filename = "MagicalForest-forge-1.18.2-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a78747f1b36de79fb4420ae6b8b6bc56ef97092f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823407
+project-id = 383666
