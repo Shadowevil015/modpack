@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "b07239fd92ca5f4821e3f151cbad0b245f17c53efa9266151a039e700af35d8f"
+
+[[files]]
 file = "index.js"
 hash = "b703782c7349e26cc64476ebf91ac01ba2cf4e591d821359fc899eb09223fc27"
+
+[[files]]
+file = "mods/CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
+hash = "ffc18b1e180a64ce8367408320285bf34764d64aeb6ed7f4f781523fed079c48"
+
+[[files]]
+file = "mods/EnhancedBlockEntities-Reforged-1.18.2-0.7.3.jar"
+hash = "e72cb75980df0b8510935766a50f6a3d55aca3454457167d4231a3ff342fc396"
+
+[[files]]
+file = "mods/ImmediatelyFastReforged-1.18.2-1.1.10.jar"
+hash = "8a51f3f20bf857cd8250113d231f3b1ab3b604bc87d761e00168ceec1d4cd3e8"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -155,11 +171,6 @@ hash = "58424badda6989de55a21585f4a7d1c9150edb23a0c82ff27f6f713e4618d581"
 metafile = true
 
 [[files]]
-file = "mods/culllessleaves-reforged.pw.toml"
-hash = "73d3c614223f6b3ae93f314c220b5ea11384260ca92e208b4300b9642051a952"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
 metafile = true
@@ -192,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/energymeter.pw.toml"
 hash = "d0f0562673b1a816e8bdfbf5b386002d22270e38f2a7db507aace860e9dece4e"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-block-entities-reforged-unofficial.pw.toml"
-hash = "a78598eada966516616824ba472956047a3ec9bc0a7079a3afdacfd74bc17b1b"
 metafile = true
 
 [[files]]
@@ -270,11 +276,6 @@ hash = "26957cccd2e46d96b644f016aac4517184a537aa09d4e433abd767c1211dac05"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "0f311023eb27ca6573f7caab2281ecc817dea74f438d3c5042a7e334513bfd7a"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "cf703ea691d4c4781eeffa3d31a8038348ebfb7d9134725c23753c7fe1a71aa5"
 metafile = true
@@ -330,9 +331,8 @@ hash = "84b4827d806ab6282cbff32eef4011053dc78685f3df718805a50213e55b3a7f"
 metafile = true
 
 [[files]]
-file = "mods/lightspeedmod.pw.toml"
-hash = "c4b7565aa8214436f86e7fac76cf9f048491141a5537ae9af9da968d668d5585"
-metafile = true
+file = "mods/lightspeed-1.18.2-1.0.4.jar"
+hash = "6e7d9cb41c0a816789f7f6cdd05b80afae5bb904844cd9e3b1440883c24592e8"
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"

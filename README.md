@@ -1,3 +1,6 @@
+- CullLessLeaves-Reforged-1.18.2-1.0.5.jar
+- EnhancedBlockEntities-Reforged-1.18.2-0.7.3.jar
+- ImmediatelyFastReforged-1.18.2-1.1.10.jar
 - Absent by Design (<https://minecraft.curseforge.com/projects/305840>)
 - AI Improvements (<https://minecraft.curseforge.com/projects/233019>)
 - Alchemistry (<https://minecraft.curseforge.com/projects/293425>)
@@ -28,7 +31,6 @@
 - Creeper Firework (<https://minecraft.curseforge.com/projects/558439>)
 - Croptopia (<https://minecraft.curseforge.com/projects/415438>)
 - Cucumber Library (<https://minecraft.curseforge.com/projects/272335>)
-- CullLessLeaves Reforged (Unofficial) (<https://minecraft.curseforge.com/projects/840788>)
 - Curios API (Forge) (<https://minecraft.curseforge.com/projects/309927>)
 - DeLogger (<https://minecraft.curseforge.com/projects/413477>)
 - Ding (Forge) (<https://minecraft.curseforge.com/projects/231275>)
@@ -36,7 +38,6 @@
 - Enchantment Descriptions (<https://minecraft.curseforge.com/projects/250419>)
 - Ender Storage 1.8.+ (<https://minecraft.curseforge.com/projects/245174>)
 - Energy Meter (<https://minecraft.curseforge.com/projects/532169>)
-- Enhanced Block Entities Reforged (Unofficial) (<https://minecraft.curseforge.com/projects/853851>)
 - Entity Collision FPS Fix (<https://minecraft.curseforge.com/projects/628345>)
 - Entity Culling Fabric/Forge (<https://minecraft.curseforge.com/projects/448233>)
 - Equipment Compare [Forge] (<https://minecraft.curseforge.com/projects/502561>)
@@ -51,7 +52,6 @@
 - Functional Storage (<https://minecraft.curseforge.com/projects/556861>)
 - GeckoLib (<https://minecraft.curseforge.com/projects/388172>)
 - Iceberg [Forge] (<https://minecraft.curseforge.com/projects/520110>)
-- ImmediatelyFast Reforged (Unofficial) (<https://minecraft.curseforge.com/projects/839581>)
 - Industrial Foregoing (<https://minecraft.curseforge.com/projects/266515>)
 - Inventory Sorter (<https://minecraft.curseforge.com/projects/240633>)
 - JEI Integration (<https://minecraft.curseforge.com/projects/265917>)
@@ -63,7 +63,7 @@
 - Lapis Reserve (<https://minecraft.curseforge.com/projects/399679>)
 - Lazy DataFixerUpper(LazyDFU) [FORGE] (<https://minecraft.curseforge.com/projects/460819>)
 - Library Ferret - Forge (<https://minecraft.curseforge.com/projects/532727>)
-- Lightspeed - Launch optimizations (<https://minecraft.curseforge.com/projects/821790>)
+- lightspeed-1.18.2-1.0.4.jar
 - Macaw's Doors (<https://minecraft.curseforge.com/projects/378646>)
 - Magical Forest (<https://minecraft.curseforge.com/projects/383666>)
 - Mantle (<https://minecraft.curseforge.com/projects/74924>)
