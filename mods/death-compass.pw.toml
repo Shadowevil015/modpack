@@ -1,0 +1,13 @@
+name = "Death Compass"
+filename = "DeathCompass-0.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f0724174c1e0107dc264961b098b0180c369bbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3870971
+project-id = 290702

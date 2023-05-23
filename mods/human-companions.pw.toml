@@ -1,0 +1,13 @@
+name = "Human Companions"
+filename = "humancompanions-1.18.2-1.7.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e7f13144469a0186b448c74290c397b9838a815"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4538253
+project-id = 570319

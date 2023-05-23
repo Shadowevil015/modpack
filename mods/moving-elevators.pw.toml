@@ -1,0 +1,13 @@
+name = "Moving Elevators"
+filename = "movingelevators-1.4.2-forge-mc1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2c8d9b3d39a71527abe872d1297242e44a9b7e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4515540
+project-id = 373051
