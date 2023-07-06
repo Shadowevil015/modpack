@@ -1,0 +1,13 @@
+name = "Mage Hand"
+filename = "magehand-1.1.3-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RuI8q4lz/versions/feTaUSTF/magehand-1.1.3-1.19.2.jar"
+hash-format = "sha1"
+hash = "78785fd196863177eb2ba7d4979e97704276d42e"
+
+[update]
+[update.modrinth]
+mod-id = "RuI8q4lz"
+version = "feTaUSTF"

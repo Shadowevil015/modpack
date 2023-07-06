@@ -1,0 +1,13 @@
+name = "Automobility"
+filename = "automobility-0.4.2+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/vq2EgPYi/automobility-0.4.2%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "4e9978dac8e96f41d57da61044c016a6f1c1c407"
+
+[update]
+[update.modrinth]
+mod-id = "rqIsPf9F"
+version = "vq2EgPYi"

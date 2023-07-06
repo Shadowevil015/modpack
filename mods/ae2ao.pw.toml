@@ -1,0 +1,13 @@
+name = "[Fabric] AE2 Additional Opportunity"
+filename = "AE2AO-14.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d07c4ffea5916164d40394fd9080e766fe3630b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4394432
+project-id = 410278

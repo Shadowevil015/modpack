@@ -1,13 +1,13 @@
 name = "Moving Elevators"
-filename = "movingelevators-1.4.2-forge-mc1.18.jar"
+filename = "movingelevators-1.4.3-fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/9KZOe6HD/versions/R16RXpyG/movingelevators-1.4.3-fabric-mc1.19.2.jar"
 hash-format = "sha1"
-hash = "b2c8d9b3d39a71527abe872d1297242e44a9b7e6"
-mode = "metadata:curseforge"
+hash = "6bd35890f15e877b91e6ba1507775b3fc3f44a5c"
 
 [update]
-[update.curseforge]
-file-id = 4515540
-project-id = 373051
+[update.modrinth]
+mod-id = "9KZOe6HD"
+version = "R16RXpyG"

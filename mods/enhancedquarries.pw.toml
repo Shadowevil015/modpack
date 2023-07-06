@@ -1,0 +1,13 @@
+name = "Enhanced Quarries"
+filename = "EnhancedQuarries-1.19-1.2.3-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JcIgEOzn/versions/B6nBTp0Q/EnhancedQuarries-1.19-1.2.3-alpha.jar"
+hash-format = "sha1"
+hash = "93a186caca5c0408dfb366577f54f2c6404ea98a"
+
+[update]
+[update.modrinth]
+mod-id = "JcIgEOzn"
+version = "B6nBTp0Q"

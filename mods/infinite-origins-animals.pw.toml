@@ -1,0 +1,13 @@
+name = "Animal Origins - Infinite Origins"
+filename = "Animal_Origins_v1.9_FABRIC_1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2891dbce601f8f4da54f40ae5e39a3b9ad83683"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830262
+project-id = 597112

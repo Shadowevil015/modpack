@@ -1,0 +1,13 @@
+name = "Let's Do: Beachparty"
+filename = "beachparty-1.0.6-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GyKzAh3l/versions/JfLlsLtA/beachparty-1.0.6-2.jar"
+hash-format = "sha1"
+hash = "7a6e1cbdbf5e27be157cb7266111359c64ea7860"
+
+[update]
+[update.modrinth]
+mod-id = "GyKzAh3l"
+version = "JfLlsLtA"

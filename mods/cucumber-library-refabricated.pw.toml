@@ -1,0 +1,13 @@
+name = "Cucumber Library: Refabricated"
+filename = "Cucumber-Refabricated-1.19.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa0d8bd791b2ed455b9ecd66d0b03cbd3859afa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4610684
+project-id = 872446

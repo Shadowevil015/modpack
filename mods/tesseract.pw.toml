@@ -1,0 +1,13 @@
+name = "Tesseract"
+filename = "tesseract-1.0.35-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/pnTWCTfB/tesseract-1.0.35-fabric-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "d3057644eab3238fb92bfc9c4ec780d197bb1991"
+
+[update]
+[update.modrinth]
+mod-id = "OUhp5O2m"
+version = "pnTWCTfB"

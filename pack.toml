@@ -1,4 +1,4 @@
-name = "Flat Modpack"
+name = "FlatFabric"
 author = "Shadowevil015"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d4b01f250a1f051a37d75bd6d0d71dc9c28af8fab8229599d9c288d6994f7329"
+hash = "c5a96e7a7e8087e02cdb80dac677db7ece24e64136a7f42b2ba8b76654e0f054"
 
 [versions]
-forge = "40.2.4"
-minecraft = "1.18.2"
+fabric = "0.14.21"
+minecraft = "1.19.2"

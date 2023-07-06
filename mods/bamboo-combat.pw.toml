@@ -1,0 +1,13 @@
+name = "Bamboo Combat"
+filename = "Bamboo_Combat-1.19.x-v1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DwwbOcmt/versions/XR76C12p/Bamboo_Combat-1.19.x-v1.0.4.jar"
+hash-format = "sha1"
+hash = "59292b4b2b2c6ae3ce6da889a2ac10ef57136cfe"
+
+[update]
+[update.modrinth]
+mod-id = "DwwbOcmt"
+version = "XR76C12p"

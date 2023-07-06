@@ -1,0 +1,13 @@
+name = "Mystical Crops"
+filename = "mysticalnature-1.8.5-1.19.2 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1tP71OOX/versions/Z280XoFr/mysticalnature-1.8.5-1.19.2%20%281%29.jar"
+hash-format = "sha1"
+hash = "5e7013296c9ebd61789b4175c8f03e20fb999e7c"
+
+[update]
+[update.modrinth]
+mod-id = "1tP71OOX"
+version = "Z280XoFr"
