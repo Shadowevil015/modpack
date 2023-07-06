@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b34f9d32bc9c52aa5daecf91e21af170847bd4da5c31728d4970ddeabbaaa2f6"
+hash = "38d2b33251e643d8bc102a1e6146e3515ff59a55c0b105dcfd060eb8b588f632"
 
 [[files]]
 file = "list.js"
