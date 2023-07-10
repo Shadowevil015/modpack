@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "38d2b33251e643d8bc102a1e6146e3515ff59a55c0b105dcfd060eb8b588f632"
+hash = "b34f9d32bc9c52aa5daecf91e21af170847bd4da5c31728d4970ddeabbaaa2f6"
 
 [[files]]
 file = "list.js"
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "7f2007222e105274b48879a3afba15cdafaeaae681c5d5e8bc6f44bbf9f45565"
+hash = "a2e0c19f70671901d913bf2fe3bf8996af3cf328a073fbc30a37bb08cb0e6cab"
 metafile = true
 
 [[files]]
@@ -704,6 +704,11 @@ hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
 metafile = true
@@ -726,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "06882801ec74485dd21d3f548dd131ba7057c8a0f06c04c9fb3406ac04c53c78"
 metafile = true
 
 [[files]]
@@ -914,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
+hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
 metafile = true
 
 [[files]]

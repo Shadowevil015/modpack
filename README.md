@@ -91,7 +91,6 @@
 - Fix Experience Bug (now with FABRIC and FORGE versions) (<https://minecraft.curseforge.com/projects/486778>)
 - Fix Keyboard on Linux (<https://modrinth.com/mod/siXFh9dn>)
 - Forge Config API Port (<https://modrinth.com/mod/ohNO6lps>)
-- Fusion (Connected Textures) (<https://modrinth.com/mod/p19vrgc2>)
 - Geckolib (<https://modrinth.com/mod/8BmcQJ2H>)
 - Glassential (Fabric) (<https://modrinth.com/mod/Hhaag1wJ>)
 - Goodall (<https://modrinth.com/mod/koiNUJ8V>)
@@ -155,7 +154,6 @@
 - Reborn Core (<https://minecraft.curseforge.com/projects/237903>)
 - Rechiseled (<https://modrinth.com/mod/B0g2vT6l>)
 - Reese's Sodium Options (<https://modrinth.com/mod/Bh37bMuy>)
-- refinedstorage2-2.0.0-milestone.2.11.jar
 - Roughly Enough Items (REI) (<https://modrinth.com/mod/nfn13YXA>)
 - Resourceful Config (<https://modrinth.com/mod/M1953qlQ>)
 - Resourceful Lib (<https://modrinth.com/mod/G1hIVOrD>)
