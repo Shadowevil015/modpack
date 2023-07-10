@@ -159,11 +159,6 @@ hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
-file = "mods/brazier.pw.toml"
-hash = "8624b5d107cbe6ca646630c17768342b5ec3b8dd14d04dea1b2561121c5df676"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "68f44bc2e787f16f3ab5cf44d8716e6aa3048fd2546a2f4b7ada6e4b64307bab"
 metafile = true
