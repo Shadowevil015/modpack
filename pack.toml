@@ -1,4 +1,4 @@
-name = "FlatFabric"
+name = "Perfpack"
 author = "Shadowevil015"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d05a15003fcd06adf68d5c790ed312b0895ca494b2d51c9db1ad3bf9a30e65c3"
+hash = "b2cc6738250ed622ac3448c2cfe9bf8a4a912169efe574be50192c5881156ed0"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.19.2"
+fabric = "0.15.11"
+minecraft = "1.21"
