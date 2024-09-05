@@ -86,11 +86,6 @@ hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "26027637c0718d1e631e60d8695d9bf6ec5da2c38888c9f5febd100da0fa7937"
 metafile = true
