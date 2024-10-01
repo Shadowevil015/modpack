@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f88aeaff5ce3bac5c5135551a4a5f7a30d07b3b9ecf02e4289968c7e80fa2844"
+hash = "2ed06ddfb2e433024c5419af4dcb002dd854691b68565e4f0f1f1c96fc3fcdf6"
 metafile = true
 
 [[files]]
@@ -27,17 +27,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9855e0fe709e658c204741cb02b9b157ec874fc6f2645888c05e65e2911a495a"
+hash = "f43d75e5464045610e79a4c3bd4ff7d982aa161a2758998e073def396ee5e176"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
+hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
+hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
 metafile = true
 
 [[files]]
@@ -97,25 +97,25 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "06e89cfb3415357e9b148c65e5c0b3fce92431f9a85880a53a591b0a4690514a"
+hash = "5f5ef0acc77aab702144303babbf28aca3d894f4eb9e87de148491d5c44ee234"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
+hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a31b71f410616ddc3e99c70744e35d0640eb94ff081af70d1054689f34c2b4b6"
+hash = "6db5630aba9b540b81f9892d91fd26c1a1a9b988e3c475fdad553cfe6a2fedd4"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
+hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3942461204beae8e1876528bb2fbfbaed242dec40f46bc89ee5ab1e74a4f0985"
+hash = "3c72e3d1035ad2f1c8525177e11cb9e6666a09d599d49099503cbdf81a202cef"
 metafile = true
