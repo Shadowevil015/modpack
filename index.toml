@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+hash = "78d340163d70e433a6c407c10e1f65ba3ab00b92bf22f61a66ca4b38ae6d3dfc"
 metafile = true
 
 [[files]]
@@ -32,22 +32,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+hash = "4f98c68b1de3837e8e7c519dfffc8c2b312768c69f804540334cc3f20714f7f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+hash = "2250b48970ad684f439bf82e0275be0a2b3dbeab43dca0d2dd884601975d286a"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
+hash = "835b42848b40cd6f0568cb95fa655833e0caeb488a74cfd05df97a5644fd052b"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "26027637c0718d1e631e60d8695d9bf6ec5da2c38888c9f5febd100da0fa7937"
+hash = "efbfeea99f4b0b6eb2e62d9b840efa7d8f68593c4506bcad612c846d23760eba"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5f5ef0acc77aab702144303babbf28aca3d894f4eb9e87de148491d5c44ee234"
+hash = "bda7f52f7e77396230d554f6d148012b609ea5b7be698df43dc89605ec4f84a4"
 metafile = true
 
 [[files]]
