@@ -11,6 +11,16 @@ hash = "df21d4923d61c8d9199e602cca45695b7d17295fa8555f072d8d83045946ef3e"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "b00cd5f6140668f57c7f0e75169a345e39e2138c4866d2355155c0720ed82bb7"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
@@ -81,6 +91,11 @@ hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7bf459d780e378c5194a1562669db838b32709446a2b1d3962c4292397cb3cec"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
@@ -112,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
+hash = "254d0e8b35e68e9183e5b9e194a802334e90e7b6ca43df412f44084d9f13ed4e"
 metafile = true
 
 [[files]]
