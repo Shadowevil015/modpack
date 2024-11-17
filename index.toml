@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "903347eb5b925448b3aa89aa596c2c53534acf25fdd85ed755950139564053e3"
+hash = "e9b5551664b13354576e4c22a01d70eb355f6cb8014b1ce84350d2da27c46576"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
+hash = "315ea30573b3ae6dfe4114b2d0341234c43a47e0c9196a89d6f0fc2aca0b3aaa"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "7bf459d780e378c5194a1562669db838b32709446a2b1d3962c4292397cb3cec"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
+hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
+hash = "a5b08175ba6a8ffa2cb04d09e942a5bd40295aded769de82b26fd9fc80e3b1a5"
 metafile = true
 
 [[files]]
