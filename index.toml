@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "322fe76e50c8147db79b7bc7650451840ee9b51b96e6eb2daf5115e46b92f52a"
+hash = "1fc101c366d1bdc1567611bc08d6a01fd719a7e19236bc26b1e257f8bd0e25db"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "de3da8820689581e98a30b0fe7becdcdb1ba96f027af4b58cf52b009e330b977"
+hash = "1f3c3295b7bb5a8bb8b96b47e1c60e28ee3b7a8d0f70e18c0d6e50b0de989a56"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "6db5630aba9b540b81f9892d91fd26c1a1a9b988e3c475fdad553cfe6a2fedd4"
+hash = "fa41e05d17ae825fe60001763b2160c15b3998fb0352fce0e70af67172afb262"
 metafile = true
 
 [[files]]
